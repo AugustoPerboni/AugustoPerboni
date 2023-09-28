@@ -1,16 +1,19 @@
-### Hi there 👋
+# 🚀 Augusto Perboni 📊
 
-<!--
-**AugustoPerboni/AugustoPerboni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📬 [Email](mailto:augustoperboni@hotmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/augustoperboni/) | 📞 +351 91511-3188
 
-Here are some ideas to get you started:
+## 🌍 About Me
+🇧🇷 From Brazil to 🇵🇹 Portugal, my journey in Aerospace Engineering led me to a deeper love: 💻 coding and 📈 data. I've dabbled in the realms of:
+- 🐍 Python
+- 📊 Data Analysis
+- 🤖 Machine Learning Models
+- 🕸️ Data Scraping
+Always curious, always learning! 📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Experience
+- Data Scientist: Crafting AI-driven solutions to complex problems.
+- Data Analyst: Translating raw data into insights.
+
+## 🤝 Let's Collaborate!
+Dive into my repositories, share your thoughts, and let's build something amazing together!
+
