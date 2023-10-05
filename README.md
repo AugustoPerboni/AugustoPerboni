@@ -15,5 +15,5 @@ Always curious, always learning! 📚
 - Data Analyst: Translating raw data into insights.
 
 ## 🤝 Let's Collaborate!
-Dive into my repositories, share your thoughts, and let's build something amazing together!
+Dive into my repositories, share your thoughts, and let's build something together!
 
